@@ -1,3 +1,10 @@
 h1 {
     background-color: aqua;
 }
+
+button {
+    border: none;
+    background-color: rgb(10,10,27);
+    color: #fff;
+    padding: 20px;
+}
